@@ -9,8 +9,8 @@ A curated collection of useful OBS Studio plugins, scripts and related apps to i
 ### 📹 DroidCam — Turn your phone into a wireless webcam for OBS.
 
 **Direct:**  [https://droidcam.app](https://droidcam.app)
-**App Store:**  [https://apps.apple.com/us/app/droidcam-webcam-obs-camera/id1510258102](https://apps.apple.com/us/app/droidcam-webcam-obs-camera/id1510258102)
-**Google Play Store:**  [https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam&hl=en-US](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam&hl=en-US)
+**App Store:**  [https://apps.apple.com/us/app/droidcam-webcam-obs-camera/id1510258102](https://apps.apple.com/us/app/droidcam-webcam-obs-camera/id1510258102)   
+**Google Play Store:**  [https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam&hl=en-US](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam&hl=en-US)    
 
 **Use case:**  Use an Android or iPhone as a high-quality webcam over USB or Wi-Fi for OBS, streaming, recording, or video conferencing (with Virtual Camera).
 
@@ -18,7 +18,7 @@ A curated collection of useful OBS Studio plugins, scripts and related apps to i
 
 ### ▶️ Elgato Stream Deck Mobile — Virtual Stream Deck app for phones and tablets.
 
-**Software (Stream Deck):** [https://www.elgato.com/uk/en/s/downloads](https://www.elgato.com/uk/en/s/downloads)
+**Software (Stream Deck):** [https://www.elgato.com/uk/en/s/downloads](https://www.elgato.com/uk/en/s/downloads)   
 **App Store:**  [https://apps.apple.com/us/app/elgato-stream-deck-mobile/id1440014184](https://apps.apple.com/us/app/elgato-stream-deck-mobile/id1440014184)   
 **Google Play Store:**  [https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US](https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US)   
 
@@ -28,9 +28,9 @@ A curated collection of useful OBS Studio plugins, scripts and related apps to i
 
 ### 🌌 Touch Portal — Customizable macro and automation controller.
 
-**Software:** [https://www.touch-portal.com/#downloadstitle](https://www.touch-portal.com/#downloadstitle)  
-**App Store:**  [https://apps.apple.com/nl/app/touch-portal/id1410172542](https://apps.apple.com/nl/app/touch-portal/id1410172542)
-**Google Play Store:**  [https://play.google.com/store/apps/details?id=rils.apps.touchportal](https://play.google.com/store/apps/details?id=rils.apps.touchportal)
+**Software:** [https://www.touch-portal.com/#downloadstitle](https://www.touch-portal.com/#downloadstitle)    
+**App Store:**  [https://apps.apple.com/nl/app/touch-portal/id1410172542](https://apps.apple.com/nl/app/touch-portal/id1410172542)   
+**Google Play Store:**  [https://play.google.com/store/apps/details?id=rils.apps.touchportal](https://play.google.com/store/apps/details?id=rils.apps.touchportal)   
 
 **Use case:**  Create custom buttons, pages, and automation to control OBS, applications, smart home devices, and system actions from your phone or tablet.
 
@@ -41,7 +41,7 @@ A curated collection of useful OBS Studio plugins, scripts and related apps to i
 ### 🔁 Advanced Scene Switcher — Automates scene changes with rules and macros.
   
 **Direct:** [https://obsproject.com/forum/resources/advanced-scene-switcher.395](https://obsproject.com/forum/resources/advanced-scene-switcher.395)  
-**GitHub:** [https://github.com/WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher)  
+**GitHub:** [https://github.com/WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher)   
 
 **Use case:** Switch scenes automatically based on time, source activity, or hotkeys.
 
